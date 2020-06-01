@@ -1,0 +1,10 @@
+C:\Users\Feri\source\repos\Kripto\Kripto\bin\Debug\Kripto.exe.config
+C:\Users\Feri\source\repos\Kripto\Kripto\bin\Debug\Kripto.exe
+C:\Users\Feri\source\repos\Kripto\Kripto\bin\Debug\Kripto.pdb
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.csprojAssemblyReference.cache
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.Properties.Resources.resources
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.csproj.GenerateResource.cache
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.csproj.CoreCompileInputs.cache
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.exe
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.pdb
+C:\Users\Feri\source\repos\Kripto\Kripto\obj\Debug\Kripto.Kripto.resources
