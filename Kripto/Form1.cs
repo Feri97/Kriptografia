@@ -44,7 +44,7 @@ namespace Kripto
 
         private async void btn_start_ClickAsync(object sender, EventArgs e)
         {
-
+            btn_start.Enabled = false;
             char[,] matrix = new char[26, 26];
             for (int i = 0; i < 26; i++)
             {
@@ -120,6 +120,8 @@ namespace Kripto
                 crypted = crypted + matrix[x, y];
                 lbl_crypted.Text = crypted;
             }
+
+            btn_start.Enabled = true;
         }
 
     }
